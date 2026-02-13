@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : traffic.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-28
-//Module     : traffic
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: Traffic Light Controller used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 package traffic_pkg;
   typedef enum bit [1:0] {RED, GREEN, YELLOW} light_t;
