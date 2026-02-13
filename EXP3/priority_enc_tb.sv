@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : priority_enc_tb.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-23
-//Module     : tb
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: 4:2 Priority Encoder used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 `timescale 1ns/1ps
 
