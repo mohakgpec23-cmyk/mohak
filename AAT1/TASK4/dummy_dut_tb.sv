@@ -1,13 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : dummy_dut_tb.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-29
-//Module     : tb
-//Project    : SystemVerilog and Verification (23EC6PE2SV)
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: Testbench verifying EthPacket class using constrained randomization
-//             (length 4-8) and functional coverage logic.
-//------------------------------------------------------------------------------
+
 
 `timescale 1ns/1ps
 
