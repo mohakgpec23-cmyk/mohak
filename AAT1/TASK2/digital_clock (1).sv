@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : digital_clock.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-28
-//Module     : digital_clock
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: Basic Digital Clock used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 module digital_clock(
   input logic clk,
