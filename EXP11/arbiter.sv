@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : arbiter.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-28
-//Module     : arbiter
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: Arbiter used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 module arbiter(
   input logic clk, rst,
