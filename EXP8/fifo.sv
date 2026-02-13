@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : fifo.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-24
-//Module     : fifo
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: FIFO with Interfaces used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 module fifo(
   input clk, wr, rd,
