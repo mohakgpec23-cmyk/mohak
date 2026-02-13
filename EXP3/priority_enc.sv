@@ -1,12 +1,3 @@
-//------------------------------------------------------------------------------
-//File       : priority_enc.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-23
-//Module     : priority_enc
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: 4:2 Priority Encoder used for basic functional coverage example.
-//------------------------------------------------------------------------------
 
 module priority_enc(
   input logic [3:0] in,
