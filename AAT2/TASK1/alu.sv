@@ -1,9 +1,3 @@
-//------------------------------------------------------------------------------
-// File       : alu.sv
-// Author     : Krishna Gupta / 1BM23EC123
-// Project    : SystemVerilog and Verification (23EC6PE2SV)
-// Description: 2-input 8-bit ALU
-//------------------------------------------------------------------------------
 
 `timescale 1ns/1ps
 
