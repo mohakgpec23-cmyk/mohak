@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : counter.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-24
-//Module     : counter
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: 4-bit Synchronous Counter used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 module counter(
 	input clk, rst,
