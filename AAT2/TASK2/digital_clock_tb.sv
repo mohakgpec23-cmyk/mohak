@@ -1,10 +1,4 @@
-//------------------------------------------------------------------------------
-// File       : digital_clock_tb.sv
-// Author     : Krishna Gupta / 1BM23EC123
-// Project    : SystemVerilog and Verification (23EC6PE2SV)
-// Description: Coverage-driven testbench for Digital Clock
-//              Designed to achieve 100% IMC coverage
-//------------------------------------------------------------------------------
+
 
 `timescale 1ns/1ps
 
