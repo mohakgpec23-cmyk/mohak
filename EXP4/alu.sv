@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : alu.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-24
-//Module     : alu
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: 2-input 8-bit ALU used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 package defs_pkg;
   typedef enum bit [1:0] {ADD, SUB, AND, OR} opcode_e;
