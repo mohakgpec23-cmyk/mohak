@@ -1,12 +1,4 @@
-//------------------------------------------------------------------------------
-//File       : alu_tb.sv
-//Author     : Krishna Gupta/1BM23EC123
-//Created    : 2026-01-24
-//Module     : tb
-//Project    : SystemVerilog and Verification (23EC6PE2SV),
-//Faculty    : Prof. Ajaykumar Devarapalli
-//Description: 2-input 8-bit ALU used for basic functional coverage example.
-//------------------------------------------------------------------------------
+
 
 `timescale 1ns/1ps
 
