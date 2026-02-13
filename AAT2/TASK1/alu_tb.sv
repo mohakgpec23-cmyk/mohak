@@ -1,9 +1,4 @@
-//------------------------------------------------------------------------------
-// File       : alu_tb.sv
-// Author     : Krishna Gupta / 1BM23EC123
-// Project    : SystemVerilog and Verification (23EC6PE2SV)
-// Description: Cadence-compatible ALU testbench with functional coverage
-//------------------------------------------------------------------------------
+
 
 `timescale 1ns/1ps
 import alu_pkg::*;
